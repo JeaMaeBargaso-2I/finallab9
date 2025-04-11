@@ -7,7 +7,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(pink, red);
+  background-image: linear-gradient(blue, red);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -18,7 +18,7 @@ body {
   padding: 30px;
   border: 5px solid #1b086e;
   border-radius: 5px;
-  background-image: linear-gradient(yellow, red);
+  background-image: linear-gradient(rgb(136, 136, 36), red);
 }
 
 h1 {
