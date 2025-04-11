@@ -11,6 +11,9 @@ function App() {
       hello: 'kamusta',
       world: 'mundo',
       example: 'halimbawa',
+      hope: 'pag-asa',
+      knowledge: 'kaalaman',
+      Unlucky: 'malas',
       // Add more translations as needed
     };
 
