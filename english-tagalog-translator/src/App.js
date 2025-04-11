@@ -14,6 +14,7 @@ function App() {
       hope: 'pag-asa',
       knowledge: 'kaalaman',
       Unlucky: 'malas',
+      iloveyou: 'mahal kita',
       // Add more translations as needed
     };
 
